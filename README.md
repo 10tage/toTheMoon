@@ -5,7 +5,7 @@ Ambidexterous! Try if you can switch panel sides mid-flight on Admiral Difficult
 
 ---
 
-![toTheMoon Rocket Launch Game mit Feuerwerk 10tage](https://github.com/10tage/toTheMoon/blob/main/toTheMoon_screencap1.png)
+![toTheMoon Rocket Launch Game mit Feuerwerk 10tage](https://github.com/10tage/toTheMoon/blob/main/toTheMoon_screencap2.png)
 
 ---
 
@@ -13,4 +13,12 @@ Ambidexterous! Try if you can switch panel sides mid-flight on Admiral Difficult
 
 ---
 
-![toTheMoon Rocket Launch Game mit Feuerwerk 10tage](https://github.com/10tage/toTheMoon/blob/main/toTheMoon_screencap2.png)
+![toTheMoon Rocket Launch Game mit Feuerwerk 10tage](https://github.com/10tage/toTheMoon/blob/main/toTheMoon_screencap1.png)
+
+---
+
+
+
+
+
+
