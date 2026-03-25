@@ -3,9 +3,11 @@ Rocket Launch Game - Mit Feuerwerk
 
 Ambidexterous! Try if you can switch panel sides mid-flight on Admiral Difficulty! Should give bonus points, but is optional. Only goal is to the moon.
 
-Demo:
+Demos:
 
 https://10tage.neocities.org
+
+https://10tage.itch.io/tothemoon
 
 ---
 
