@@ -15,7 +15,7 @@ https://10tage.itch.io/tothemoon
 
 ---
 
-![toTheMoon Rocket Launch Game mit Feuerwerk 10tage](https://github.com/10tage/toTheMoon/blob/main/toTheMoon_screencap0.png)
+![toTheMoon Rocket Launch Game mit Feuerwerk 10tage](https://github.com/10tage/toTheMoon/blob/main/toTheMoon_screencap5.png)
 
 ---
 
